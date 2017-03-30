@@ -1,0 +1,9 @@
+.idea
+*.log
+node_modules
+dist
+
+### OSX template
+.DS_Store
+.AppleDouble
+.LSOverride
